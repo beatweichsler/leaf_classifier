@@ -12,6 +12,7 @@ This notebook is a personal project aimed at exploring deep learning methods, in
   - `test.csv`: Testing data for model evaluation.
   - `sample_submission.csv`: A sample file in the required submission format.
   - `images/`: Folder containing the leaf image files, each named with a unique ID.
+- **data_utils.py**: Some python support functions for batch processing, derived from https://raw.githubusercontent.com/DeepLearningDTU/02456-deep-learning-with-PyTorch/master/6_Mini_Project/data_utils.py
 
 ## Dataset Description
 
