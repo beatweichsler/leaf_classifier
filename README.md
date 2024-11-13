@@ -58,4 +58,3 @@ Some code snippets and utilities were reused from the DTU Deep Learning course (
 
 1. **Open Jupyter Notebook**: Launch the notebook in a Jupyter environment.
 2. **Execute Cells Sequentially**: Run the cells in order to replicate the analysis and train the model.
-```
