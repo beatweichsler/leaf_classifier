@@ -1,4 +1,3 @@
-```markdown
 # Leaf_Classification_DL: Classifying Leaf Species Using Deep Learning
 
 ## Project Overview
